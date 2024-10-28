@@ -1,0 +1,39 @@
+{
+    "servers": [
+        {
+            "name": "Netherlands Test",
+            "countryCode": "nl",
+            "xrayUrlString": "vless://e276f925-92e0-4802-b109-c22e745c1e4b@86.105.252.85:441?security=none&encryption=none&type=tcp&headerType=none#%25D0%25A2%25D0%25B5%25D1%2581%25D1%2582"
+        },
+        {
+            "name": "Estonia Test",
+            "countryCode": "ee",
+            "xrayUrlString": "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInNzaG9jZWFuLWRyYXdyZWN0LXdzIiwNCiAgImFkZCI6ICJlZTEudjJ2bWVzcy5zaXRlIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImQyNGI5Mzc3LTgzZTMtNDlkOC1iMmM3LWMwOWUzMTU3YmViYSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAibm9uZSIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiZWUxLnYydm1lc3Muc2l0ZSIsDQogICJwYXRoIjogIi92bWVzcyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJlZTEudjJ2bWVzcy5zaXRlIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0="
+        },
+        {
+            "name": "Germany",
+            "countryCode": "de",
+            "xrayUrlString": "trojan://telegram-id-directvpn@3.77.219.183:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇩🇪 DE-3.77.219.183:22222"
+        },
+        {
+            "name": "United Kindom",
+            "countryCode": "gb",
+            "xrayUrlString": "trojan://telegram-id-privatevpns@35.176.220.88:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇬🇧 GB-35.176.220.88:22222"
+        },
+        {
+            "name": "France",
+            "countryCode": "fr",
+            "xrayUrlString": "trojan://telegram-id-directvpn@15.237.13.48:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇫🇷 FR-15.237.13.48:22222"
+        },
+        {
+            "name": "Canada",
+            "countryCode": "ca",
+            "xrayUrlString": "trojan://telegram-id-directvpn@15.156.226.34:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇨🇦 CA-15.156.226.34:22222"
+        },
+        {
+            "name": "United States",
+            "countryCode": "us",
+            "xrayUrlString": "trojan://telegram-id-directvpn@3.139.193.212:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🔒 TR-TCP-TLS 🇺🇸 US-3.139.193.212:22222"
+        }
+    ]
+}
