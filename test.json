@@ -4,7 +4,13 @@
             "name": "Germany",
             "countryCode": "de",
             "address": "81.19.141.45",
-            "xrayUrlString": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Q3ZoTjBxZEc0dklZcDNpUXlma2Nm@81.19.141.45:52873#🇩🇪 Германия"
+            "xrayUrlString": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Q3ZoTjBxZEc0dklZcDNpUXlma2Nm@81.19.141.45:52873#Germany"
+        },
+        {
+            "name": "Netherlands",
+            "countryCode": "nl",
+            "address": "86.105.252.85",
+            "xrayUrlString": "vless://e276f925-92e0-4802-b109-c22e745c1e4b@86.105.252.85:441#Netherlands"
         }
     ]
 }
